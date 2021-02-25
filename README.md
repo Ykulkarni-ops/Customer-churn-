@@ -9,5 +9,5 @@ The project gievs good idea about the parameters that affect the churn and answe
 **2. Demonstrate the performance of the model.**\
 **3. What are the key factors that predict customer churn? Do these factors make sense?**\
 **4. What offers should be made to which customers to encourage them to remain with company?**\
-**5. Assuming these actions were implemented, how would you determine whether they had worked?**\
+**5. Assuming these actions were implemented, how would you determine whether they had worked?**
 
